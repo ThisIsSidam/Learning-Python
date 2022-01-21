@@ -52,9 +52,62 @@ a File. Also, the ThorOdinson.txt is additional file for this'''
 '''Recursion- occurs when a fn calls itself.'''
 
 #Day14
-'''Lambda/Anonymous function and More on Modules'''
+'''Lambda/Anonymous function and More on Modules.'''
 
 #Day15
-'''String Formatting with %s, Format fn and Fstrings and Args and Kwargs'''
+'''String Formatting with %s, Format fn and Fstrings and Args and Kwargs.'''
 
 #Exercise6- Rock, Paper and Scissors
+
+#Day16
+'''Time Module.'''
+
+#Day17
+'''Virtual Enviornment.'''
+
+#Day18
+'''Enumerate.'''
+
+#Day19
+'''Working of Import and if name == main.'''
+
+#Day20
+'''Join, Map, Filter and Reduce fn.'''
+
+#Exercise7 - Healthy Programmer
+
+#Day21
+'''OOPs, Decorators, Classes and Instances.'''
+
+#Day22
+'''Class Variable, Methods and Self.'''
+
+#Day23
+'''__init__ constructor, Class methods and usage of Class method as a Constructer.'''
+
+#Day24
+'''Static methods, Theory of Abstraction and Encapsulation.'''
+
+#Day25
+'''Inheritence- Single, Multiple and Multilevel Inheritence.'''
+
+#Day26
+'''Access Specifiers, Polimorphism, Overriding and Super().'''
+
+#Day27
+'''Diamond Problem, Dunder methods, Operator Overloading, repr and str.'''
+
+#Day28
+'''Abstract Base Method, Property Decorator, getter, setter and deleter. '''
+
+#Day29
+'''Object Introspection, Iteration and Generators.'''
+
+#Day30
+'''Comprehensions and use of Else with For.'''
+
+#Day31
+'''Functon Caching.'''
+
+#Day32
+'''Else and Finally.'''
