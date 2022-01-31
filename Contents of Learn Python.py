@@ -110,4 +110,22 @@ a File. Also, the ThorOdinson.txt is additional file for this'''
 '''Functon Caching.'''
 
 #Day32
-'''Else and Finally.'''
+'''Else and Finally, along with Coroutines.'''
+
+#Day33
+'''Os Module.'''
+
+#Day34
+'''requests and json Module.'''
+
+#Day35
+'''Pickle Module'''
+
+#Day36
+'''Re module'''
+
+#Day37
+'''Meta Characters and Special Sequances.'''
+
+#Day38
+'''Conversion of .py into .exe and Raising Exceptions, and difference between is and ==.'''
