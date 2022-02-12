@@ -1,8 +1,6 @@
 # Learning-Python
 This repo. contains python files,
-kind of like my notes of python and 
-I'm still learning so more files will 
-be added with time.
+kind of like my notes of python.
 
 Also, I named the main files as Day1 and
 Day2, but it doesn't mean they are
