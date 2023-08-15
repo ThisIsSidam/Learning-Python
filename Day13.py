@@ -1,15 +1,15 @@
 # Learning Python Day13
 
 #Recursions
-'''There are two types of recursions, iterative and recursive.
-Recursions occur when a function calls itself. So,
+'''Recursions occur when a function calls itself. So,
 The example will be a code to calculate factorials.
  n! = n * (n-1) * (n-2) * ... * 1
  n! = n * (n-1)!
  5! = 5 * 4 * 3 * 2 *1
  5! = 5 * 4!
- All of that was incase you don't remember factorials.'''
+ All of that was in case you don't remember factorials.'''
 
+#Calculating factorial with iteration with a range-based for loop.
 def factorial_iterative(n):
     fac = 1
     for i in range(n):
