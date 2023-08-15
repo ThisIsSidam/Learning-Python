@@ -11,7 +11,7 @@ print('5 / 2 is', 5/2) #Division(float)- Divides two operands.
 print('5 * 2 is', 5*2) #Multiplication- Multiplies two operands.
 print('5 ** 2 is', 5**2) #Power- Returns first raised to power second.
 print('15 // 2 is', 15//2) #Division(floor)- Divides two operands, gives off just integer with quotient.
-print('15 % 2 is', 15%2) #Modulus- Divides two operands, gives off just the quotient.
+print('15 % 2 is', 15%2) #Modulus- Divides two operands, gives off just the remainder.
 
 #Assignment Operators
 a = 7 #Assigned the value 7 to variable a.
